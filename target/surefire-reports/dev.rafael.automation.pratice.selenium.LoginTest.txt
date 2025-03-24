@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dev.rafael.automation.pratice.selenium.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.794 s - in dev.rafael.automation.pratice.selenium.LoginTest

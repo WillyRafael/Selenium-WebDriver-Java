@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: dev.rafael.automation.pratice.selenium.tests.ChallengingDomTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.432 s <<< FAILURE! - in dev.rafael.automation.pratice.selenium.tests.ChallengingDomTest
+dev.rafael.automation.pratice.selenium.tests.ChallengingDomTest.test  Time elapsed: 1.408 s  <<< ERROR!
+org.openqa.selenium.InvalidSelectorException: 
+Compound class names not permitted
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.25'
+Driver info: driver.version: unknown
+	at dev.rafael.automation.pratice.selenium.tests.ChallengingDomTest.setUp(ChallengingDomTest.java:16)
+

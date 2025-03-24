@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: dev.rafael.automation.pratice.selenium.tests.RegisterPageTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.301 s <<< FAILURE! - in dev.rafael.automation.pratice.selenium.tests.RegisterPageTest
+dev.rafael.automation.pratice.selenium.tests.RegisterPageTest.test  Time elapsed: 0.156 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created
+from unknown error: cannot find Chrome binary 
+Host info: host: 'DELL_WRSS', ip: '192.168.0.102'
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}]}]
+	at dev.rafael.automation.pratice.selenium.tests.RegisterPageTest.setUp(RegisterPageTest.java:16)
+
+dev.rafael.automation.pratice.selenium.tests.RegisterPageTest.test2  Time elapsed: 0.143 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created
+from unknown error: cannot find Chrome binary 
+Host info: host: 'DELL_WRSS', ip: '192.168.0.102'
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.25'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}]}]
+	at dev.rafael.automation.pratice.selenium.tests.RegisterPageTest.setUp(RegisterPageTest.java:16)
+

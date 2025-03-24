@@ -1,0 +1,9 @@
+dev\rafael\automation\pratice\selenium\LoginTest.class
+dev\rafael\automation\pratice\selenium\tests\LoginPageTest.class
+dev\rafael\automation\pratice\selenium\pages\LoginPage.class
+dev\rafael\automation\pratice\selenium\AppTest.class
+dev\rafael\automation\pratice\selenium\tests\DressesPageTest.class
+dev\rafael\automation\pratice\selenium\pages\BasePage.class
+dev\rafael\automation\pratice\selenium\pages\DressesPage.class
+dev\rafael\automation\pratice\selenium\pages\RegisterPage.class
+dev\rafael\automation\pratice\selenium\tests\RegisterPageTest.class
